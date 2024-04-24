@@ -11,3 +11,5 @@ Kedua url sama karena keduanya mengirimkan request yang sama kepada server rabbi
 Foto:
 ![image](https://github.com/reyhanwiyasa/adpro-tutorial8-publisher/assets/119433464/66c41338-7f36-4f9e-a88e-29974832b5be)
 ![image](https://github.com/reyhanwiyasa/adpro-tutorial8-publisher/assets/119433464/0ebebbea-7c10-4408-a25b-3fd081ea46e5)
+![image](https://github.com/reyhanwiyasa/adpro-tutorial8-publisher/assets/119433464/ae208b32-a76f-45b7-bee1-a26177ef2f43)
+Spike terjadi setiap kali adanya dijalankan `cargo run`. Hal ini menunjukan adanya peningkatan message dalam suatu interval waktu.
