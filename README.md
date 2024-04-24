@@ -7,3 +7,6 @@ Karena pad publisher, maka dilakukan publish_event sebanyak 5 kali.
 b. The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber program, what does it mean?
 Jawab:
 Kedua url sama karena keduanya mengirimkan request yang sama kepada server rabbitMQ. Perbedaannya adalah adalah hasil request ini akan membuat publisher untuk mengirimkan message ke queue. Sedangkan subscriber mengambil data dari message queue dengan dibuatnya sebbuah lsitener.
+
+Foto:
+![image](https://github.com/reyhanwiyasa/adpro-tutorial8-publisher/assets/119433464/66c41338-7f36-4f9e-a88e-29974832b5be)
