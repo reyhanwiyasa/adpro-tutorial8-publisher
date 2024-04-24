@@ -11,4 +11,3 @@ Kedua url sama karena keduanya mengirimkan request yang sama kepada server rabbi
 Foto:
 ![image](https://github.com/reyhanwiyasa/adpro-tutorial8-publisher/assets/119433464/66c41338-7f36-4f9e-a88e-29974832b5be)
 ![image](https://github.com/reyhanwiyasa/adpro-tutorial8-publisher/assets/119433464/0ebebbea-7c10-4408-a25b-3fd081ea46e5)
-g
